@@ -1,0 +1,39 @@
+body{
+	margin: 0;padding:0;
+	background:url("https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-35.jpg");
+	background-size: 100%;
+	width: 100%;
+}
+h1{
+	text-shadow: 1px 1px #00FF66;
+	text-align: center;
+	color: yellow;
+}
+.border{
+	border-style: solid;
+    border-color: yellow;
+    border-radius: 6px;
+    width: 50%;
+    height: 450px;
+	font-family: Adamina; font-size: 25px;
+	color: white;
+	background-image: url("https://wallpaperscraft.com/image/planet_galaxy_light_rays_stars_62609_3840x2400.jpg");
+	/*background:rgba(225,0,0,0.2);*/
+	opacity: 0.5;
+	background-size: 100% 100%;
+	text-shadow: 2px 2px black;
+}
+h3, h5{
+	opacity: none;
+}
+.btn{
+	height: 60px;
+	width: 160px;
+	cursor: pointer;
+	font-size: 22px;
+	text-shadow: 2px 2px #83FFC6;
+	font-weight: bold;
+}
+.btn:hover{
+	opacity: 0.75;
+}
